@@ -22,7 +22,7 @@
 
 <h2>Como executar</h2>
 <h3>1. Faça um clone desse repositório na sua máquina:</h3>
-<li>Crie uma pasta no seu computador para esse projeto, recomendo colocar o nome <b>ListaDePresencat</b></li>
+<li>Crie uma pasta no seu computador para esse projeto, recomendo colocar o nome <b>ListaDePresenca</b></li>
  
 <li>Abra o <code>git bash</code> ou <code>terminal</code> dentro dessa pasta</li>
 <li>Copie a URL do repositório</li>
